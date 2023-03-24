@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(184,203,74);
+  }
+.b1{
+    border-radius: 30px;
+}
+.login-area{
+    border: none;
+    background-color: rgb(255, 250, 243);
+}
+::placeholder{
+    font-size: 14px;
+}
+.forgot{
+    text-decoration: none;
+    color: black;
+}
